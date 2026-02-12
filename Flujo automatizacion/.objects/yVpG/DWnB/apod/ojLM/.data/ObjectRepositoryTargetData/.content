@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pWNaVZxeWEO7kJqC2yTP9A" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="814df7f0-1ab6-46b4-9e81-41b71fc620cb" DesignTimeRectangle="869, 406, 63, 30" DesignTimeScaleFactor="1.25" ElementType="Text" FullSelectorArgument="&lt;webctrl aaname='Female' parentid='genterWrapper' tag='LABEL' /&gt;" Guid="c1d4b502-b5b6-4e93-80bc-be9ebc133dfa" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEMOQA' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="91a7a53a71460bd0f311e56a2c114480.png" xmlns="">0f4aiS-OGrU-G4My06QQ3AQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">Check</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

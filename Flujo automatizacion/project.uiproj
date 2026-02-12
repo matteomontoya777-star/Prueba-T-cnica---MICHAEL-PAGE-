@@ -1,0 +1,6 @@
+{
+  "Name": "Flujo automatizacion",
+  "ProjectType": "Process",
+  "Description": "",
+  "MainFile": "Main.xaml"
+}

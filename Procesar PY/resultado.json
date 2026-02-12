@@ -1,0 +1,19 @@
+{
+    "total_registros": 10,
+    "promedio_edad": 34.1,
+    "promedio_salario": 62000.0,
+    "empleados_con_salario_mayor_a_70000": [
+        {
+            "Name": "Bob Johnson",
+            "Salary": 75000
+        },
+        {
+            "Name": "Mary Green",
+            "Salary": 73000
+        },
+        {
+            "Name": "Nancy Wilson",
+            "Salary": 80000
+        }
+    ]
+}

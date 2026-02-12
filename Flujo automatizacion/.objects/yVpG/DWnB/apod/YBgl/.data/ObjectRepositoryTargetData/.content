@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="mOajkm3o3UuxZo0zeNTB1Q" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="8ad25366-284c-4f88-8fb5-e3026c716f94" DesignTimeRectangle="745, 481, 273, 48" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='firstName' tag='INPUT' /&gt;" Guid="733836df-fb54-4f12-921a-24e5336e863c" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEMOQA' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="9b9f651c79da1c48f2d269cb6f759dfd.png" xmlns="">0wFk5l6dJ0kiVARdevdw2zg</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

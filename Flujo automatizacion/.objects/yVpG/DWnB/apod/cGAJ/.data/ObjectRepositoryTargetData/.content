@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="QipcwTRKXEu9ADGGCmrBRQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" DesignTimeRectangle="470, 282, 998, 733" DesignTimeScaleFactor="1.25" FullSelectorArgument="&lt;webctrl class='modal-body' tag='DIV' /&gt;" Guid="f6ca49b8-41da-4633-aedc-e2fc19e176dc" ImageBase64="" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEMOQA' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="70a2306ff2181cddd6e77ac593c12361.png" xmlns="">0DE5AuQr800aL56uX_VS7MQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TakeScreenshot</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

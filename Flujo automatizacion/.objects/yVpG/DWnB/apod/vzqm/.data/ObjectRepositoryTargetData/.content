@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="okWW7_Q7l022UCFWvo2bJQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="demoqa.com/automation-practice-form" CVScreenId="277e1286-b927-4f52-8525-a670d6f3d193" DesignTimeRectangle="745, 691, 258, 48" DesignTimeScaleFactor="1.25" ElementType="InputBox" FullSelectorArgument="&lt;webctrl id='dateOfBirthInput' tag='INPUT' /&gt;" Guid="90473a10-b8dc-49a2-a528-4b25bafcd0bb" ScopeSelectorArgument="&lt;html app='chrome.exe' title='DEMOQA' /&gt;" SearchSteps="Selector" Version="V5" Visibility="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="749aff1939baa85b584dbf8982d64559.png" xmlns="">0Qo3hcp2IwEyiNuv4iDl3OQ</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">KeyboardShortcut</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

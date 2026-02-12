@@ -1,0 +1,14 @@
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\bin\Debug\net10.0\ValidacionCadenas.exe
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\bin\Debug\net10.0\ValidacionCadenas.deps.json
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\bin\Debug\net10.0\ValidacionCadenas.runtimeconfig.json
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\bin\Debug\net10.0\ValidacionCadenas.dll
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\bin\Debug\net10.0\ValidacionCadenas.pdb
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.AssemblyInfo.cs
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.dll
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\refint\ValidacionCadenas.dll
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.pdb
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ValidacionCadenas.genruntimeconfig.cache
+C:\Users\USUARIO\Documents\UiPath\PruebaSinConexion\Prueba Técnica para el Cargo de Desarrollador RPA\ValidacionCadenas\obj\Debug\net10.0\ref\ValidacionCadenas.dll
